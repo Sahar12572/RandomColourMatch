@@ -95,6 +95,4 @@ No data is saved or stored; this is a runtime-only utility.
 Created by Sahar
 Built for fun, learning, and a little creativity in Java.
 
-yaml
-Copy
-Edit
+
